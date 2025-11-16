@@ -3,13 +3,12 @@ Iris Dataset – Exploratory Data Analysis
 This project contains a simple exploratory data analysis (EDA) of the Iris dataset using Python.
 The goal is to practice and demonstrate fundamental data-analysis skills including data loading, inspection, summarization, and visualization.
 
-Tasks Performed
-1. Load the Dataset
+Tasks Performed:
 
+1. Load the Dataset
 Imported the Iris dataset using pandas / seaborn
 
 Inspected dataset structure using:
-
 a.shape
 b.columns
 c.head()
